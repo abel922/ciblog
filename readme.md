@@ -7,7 +7,7 @@ Project with CodeIgniter blog to create posts, delete and update with login and 
 Abel García Luis
 
 ## Run the App
-Execute Xampp sever and start Apache, Mysql and go to your browser http://locahost/'name of project' to navigate throw the app.
+Execute Xampp sever and start Apache, Mysql and go to your browser http://locahost/name/ to navigate throw the app.
 
 ## Database
 The sql dump is in _SQL/ciblog.sql, import the sql file in phpmyadmin to load the blog database.
