@@ -1,0 +1,1 @@
+<div class="jumbotron text-center"><h1>Hi, welcome to my CiBlog</h1> <p>The place where we write some words.</p> <small>It is a website with a blog application.</small><br> <small>It also includes full authentication.</small><br> <small>Possibility of crud application.</small></div>
