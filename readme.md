@@ -1,7 +1,7 @@
 
 ## Description
 
-Project with CodeIgniter blog to create posts, delete and update with login and register system.
+Project with CodeIgniter blog to create posts, update, delete and create categories with login and register system.
 
 ## Author
 Abel García Luis
